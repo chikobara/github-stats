@@ -3,9 +3,8 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-
-![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chikobara/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 Generate visualizations of GitHub user and repository statistics with GitHub
